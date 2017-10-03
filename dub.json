@@ -1,0 +1,13 @@
+{
+    "name": "rawarchive",
+    "authors": [
+        "Samathy Barratt"
+    ],
+    "dependencies": {
+    },
+    "description" :"Archive all files marked as 'rejected'",
+    "copyright": "2017 Samathy Barratt",
+    "license": "MIT",
+    "targetType": "executable",
+    "mainSourceFile":"source/main.d"
+}
