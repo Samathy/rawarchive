@@ -1,4 +1,4 @@
-#rawarchive
+# rawarchive
 A small application for archiving 'rejected' RAW image files.
 
 Images marked as 'rejected' using a RAW image processing/management tool
